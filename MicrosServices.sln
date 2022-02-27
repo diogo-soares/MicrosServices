@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalog.Api", "Catalog.Api\Catalog.Api.csproj", "{67286177-6461-4678-913B-B071D86F2078}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.Api", "Catalog.Api\Catalog.Api.csproj", "{67286177-6461-4678-913B-B071D86F2078}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{27E1FC89-1632-40E8-AE2A-8FDDA18DFA2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basket.Api", "Basket.Api\Basket.Api.csproj", "{41FDA1E0-07EE-487B-92A6-CD5FBA39860E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basket.Api", "Basket.Api\Basket.Api.csproj", "{41FDA1E0-07EE-487B-92A6-CD5FBA39860E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discount.Api", "Discount.Api\Discount.Api.csproj", "{0C0BA39E-6E94-481A-ACA3-B50E3641A1A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{41FDA1E0-07EE-487B-92A6-CD5FBA39860E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41FDA1E0-07EE-487B-92A6-CD5FBA39860E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41FDA1E0-07EE-487B-92A6-CD5FBA39860E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C0BA39E-6E94-481A-ACA3-B50E3641A1A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0BA39E-6E94-481A-ACA3-B50E3641A1A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0BA39E-6E94-481A-ACA3-B50E3641A1A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0BA39E-6E94-481A-ACA3-B50E3641A1A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
