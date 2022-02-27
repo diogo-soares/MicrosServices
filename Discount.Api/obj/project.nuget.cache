@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "w4JSItn0TJxnQ4VVI18T+PwUilddyZrVj61fxU3h3IycYqDWYqWE/Kq45GE8j9NrW+Z5iOq5Q1WjlpAKM9FrJA==",
+  "dgSpecHash": "EEvi5RWehj+0lw2AfjInTwnsgw2S0V3sMVFE7uQBSAImik582SjfLULfepnKC2+n2Sy+Fvj+Yc1Bd3I06cDgeg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Diogo Timeware\\source\\repos\\MicrosServices\\Discount.Api\\Discount.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diogo Timeware\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Diogo Timeware\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Diogo Timeware\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Diogo Timeware\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\Diogo Timeware\\.nuget\\packages\\npgsql\\6.0.3\\npgsql.6.0.3.nupkg.sha512",
     "C:\\Users\\Diogo Timeware\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Diogo Timeware\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
