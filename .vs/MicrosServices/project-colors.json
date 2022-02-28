@@ -20,7 +20,17 @@
       "ProjectGuid": "41fda1e0-07ee-487b-92a6-cd5fba39860e",
       "DisplayName": "Basket.Api",
       "ColorIndex": 2
+    },
+    "0c0ba39e-6e94-481a-aca3-b50e3641a1a5": {
+      "ProjectGuid": "0c0ba39e-6e94-481a-aca3-b50e3641a1a5",
+      "DisplayName": "Discount.Api",
+      "ColorIndex": 3
+    },
+    "8151bbbb-9605-4b46-8246-7b8420dc2cd3": {
+      "ProjectGuid": "8151bbbb-9605-4b46-8246-7b8420dc2cd3",
+      "DisplayName": "Discount.Grpc",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }

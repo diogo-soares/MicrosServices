@@ -30,3 +30,9 @@ C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\obj\Debug\net5
 C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\bin\Debug\net5.0\Dapper.dll
 C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\bin\Debug\net5.0\Npgsql.dll
 C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.csproj.AssemblyReference.cache
