@@ -4,6 +4,7 @@ services:
   basket.api:
     image: basketapi:dev
     build:
+      target: base
       labels:
         com.microsoft.created-by: "visual-studio"
         com.microsoft.visual-studio.project-name: "Basket.Api"
