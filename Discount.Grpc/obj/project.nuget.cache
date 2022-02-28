@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PGBbhmjG5jn7nMyVbtXPMfiNWHz91hUD9KttFRm6QxHe7Ihvbeza+6MjDtLJXVMC/zbqxRR0f+tgDKXpWzGNFA==",
+  "dgSpecHash": "eOilG880/AtuZNfPJ0KLc59MybwjsJ37CiFzGPmxC76sHDHjv9HjLm85MTxQjMKjl8CeYWEukZcVF5RTnakc6Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Diogo Timeware\\source\\repos\\MicrosServices\\Discount.Grpc\\Discount.Grpc.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Diogo Timeware\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Diogo Timeware\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
     "C:\\Users\\Diogo Timeware\\.nuget\\packages\\grpc.aspnetcore\\2.34.0\\grpc.aspnetcore.2.34.0.nupkg.sha512",
     "C:\\Users\\Diogo Timeware\\.nuget\\packages\\grpc.aspnetcore.server\\2.34.0\\grpc.aspnetcore.server.2.34.0.nupkg.sha512",
@@ -23,9 +24,10 @@
     "C:\\Users\\Diogo Timeware\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
     "C:\\Users\\Diogo Timeware\\.nuget\\packages\\microsoft.extensions.options\\3.0.3\\microsoft.extensions.options.3.0.3.nupkg.sha512",
     "C:\\Users\\Diogo Timeware\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.3\\microsoft.extensions.primitives.3.0.3.nupkg.sha512",
+    "C:\\Users\\Diogo Timeware\\.nuget\\packages\\npgsql\\6.0.3\\npgsql.6.0.3.nupkg.sha512",
     "C:\\Users\\Diogo Timeware\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
     "C:\\Users\\Diogo Timeware\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\Diogo Timeware\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    "C:\\Users\\Diogo Timeware\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

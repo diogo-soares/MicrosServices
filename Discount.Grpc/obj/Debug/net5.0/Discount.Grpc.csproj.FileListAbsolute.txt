@@ -14,7 +14,6 @@ C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\bin\Debug\net5
 C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\bin\Debug\net5.0\Grpc.Net.Client.dll
 C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
 C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\bin\Debug\net5.0\Grpc.Net.Common.dll
-C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.csproj.AssemblyReference.cache
 C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.AssemblyInfoInputs.cache
 C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.AssemblyInfo.cs
@@ -28,3 +27,6 @@ C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\obj\Debug\net5
 C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\obj\Debug\net5.0\ref\Discount.Grpc.dll
 C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.pdb
 C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.genruntimeconfig.cache
+C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\bin\Debug\net5.0\Dapper.dll
+C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Diogo Timeware\source\repos\MicrosServices\Discount.Grpc\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
