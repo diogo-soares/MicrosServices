@@ -1,4 +1,4 @@
-﻿using Discount.Grpc.Controllers;
+﻿using Discount.Grpc.Entities;
 using System.Threading.Tasks;
 
 namespace Discount.Grpc.Repository

@@ -1,4 +1,4 @@
-﻿namespace Discount.Grpc.Controllers
+﻿namespace Discount.Grpc.Entities
 {
     public class Coupon
     {
