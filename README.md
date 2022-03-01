@@ -18,7 +18,7 @@ To know more about how to setup your enviroment visit the [Microsoft .NET Downlo
 
 ## Technologies implemented:
 
-- ASP.NET 5.0 (with .NET Core 5.0)
+- .NET Core 5.0
 - Entity Framework Core 5.0
 - AutoMapper
 - Swagger UI 
